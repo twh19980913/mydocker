@@ -1,0 +1,4 @@
+running gcc failed: exit status 1
+/usr/bin/ld: /tmp/go-link-2856326187/000005.o: 未识别的重定向 (0x2a)，位于 `.text' 区
+/usr/bin/ld: 最后的链结失败: 错误的值
+
